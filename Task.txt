@@ -1,0 +1,15 @@
+Interfaces
+
+Create a CANMove interface with the move () method.
+Create a CanFly interface with the fly () method.
+Create a Car class with the implementation of the CanMove interface, where the “Car Motion” line will be displayed in the move () method.
+Create an Aircraft class with the implementation of the CanFly interface, where the string “Airplane flight” will be displayed in the fly () method.
+Create an object of class Car and call the method move ().
+Create an object of the Aircraft class and call the fly () method.
+
+ Treit
+
+Rewrite the previous exercise, instead of interfaces, there should be traits and the implementation of the move () and fly () methods should be right in them.
+In the Ca1r and Aircraft1 classes, connect the traits while removing the implementation of the move () and fly () methods (since the implementation is now in the traits themselves).
+Create an object of class Car1 and call the move () method.
+Create an object of class Aircraft1 and call the fly () method.
